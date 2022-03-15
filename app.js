@@ -8,6 +8,7 @@ app.get('/', (req, res) => {
   res.send('Hello World!')
 });
 
+console.log("test")
 // node.scanWallets();
 // nodeReader.nodeListener();
 // node.createUserWallet();
